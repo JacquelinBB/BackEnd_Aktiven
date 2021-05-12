@@ -1,2 +1,2 @@
 # Aktiven
-app mobile with python and firebase
+app mobile with python
